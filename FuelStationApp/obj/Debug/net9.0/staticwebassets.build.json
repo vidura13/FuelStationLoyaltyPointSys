@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UhjdG1pzxBEBn2WJtBLdVks122/0lcz8Yq/YC4ozD6o=",
+  "Source": "FuelStationApp",
+  "BasePath": "_content/FuelStationApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
