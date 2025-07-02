@@ -8,4 +8,6 @@ Update & manage customer data
 Loyalty points tracking including non-expired and expired loyalty points
 Secure authentication with role-based access for secure data management.
 Input validations and error handling for all API endpoints
-Used technologies: React.js, JavaScript, HTML5, CSS3, ASP.NET Core, SQLite, Postman API testing
+
+# Used technologies: 
+React.js, JavaScript, HTML5, CSS3, ASP.NET Core, SQLite, Postman API testing
